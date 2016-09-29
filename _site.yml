@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Create a Project"
+    - text: "Delete this!"
       href: project.html
     - text: "Set Build Options"
       href: build.html

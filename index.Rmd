@@ -1,6 +1,6 @@
 ---
-title: "Build a Simple Website in RStudio"
-author: "Paul Oldham"
+title: "Who needs dreamweaver when you've got RStudio?"
+author: "Your Highness"
 ---
 
 
